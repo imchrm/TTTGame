@@ -1,0 +1,13 @@
+# Folders
+
+.idea/
+.settings/
+bin/
+bin-debug/
+stuff/assets/graph/
+
+# Files
+
+*.iml
+.actionScriptProperties
+.project

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by chrm -->
+<TextureAtlas imagePath="ttt.png">
+    <SubTexture name="txtr_0" x="0" y="0" width="200" height="200"/>
+    <SubTexture name="txtr_1" x="200" y="0" width="200" height="200"/>
+    <SubTexture name="txtr_2" x="400" y="0" width="200" height="200"/>
+    <SubTexture name="txtr_3" x="600" y="0" width="200" height="200"/>
+    <SubTexture name="txtr_4" x="800" y="0" width="200" height="200"/>
+</TextureAtlas>
