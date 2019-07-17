@@ -4,6 +4,7 @@
 .settings/
 bin/
 bin-debug/
+out/
 stuff/assets/graph/
 
 # Files
